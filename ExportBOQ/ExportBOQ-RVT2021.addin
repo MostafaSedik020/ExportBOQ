@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Export BOQ</Name>
+		<Assembly>"E:\Development\ExportBOQ\ExportBOQ\ExportBOQ\bin\Debug\ExportBOQ.dll"</Assembly>
+		<AddInId>02C008F4-011A-43D8-B618-9C7D6BD6FF57</AddInId>
+		<FullClassName>ExportBOQ.Revit.Entry.ExtApp</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<VendorDescription>Mostafa</VendorDescription>
+		<Text>Export structure elements</Text>
+	</AddIn>
+</RevitAddIns>
